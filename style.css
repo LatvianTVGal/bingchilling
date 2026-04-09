@@ -29,3 +29,15 @@ p {
 .bold {
     font-family: "e-Ukraine Bold";
 }
+
+.locatedBelow {
+    text-align: justify;
+}
+
+.whiteColour {
+    color: aliceblue;
+}
+
+.scaleDown {
+    scale:85%;
+}
