@@ -8,13 +8,24 @@
     src: url(data/fonts/regular.woff2) format("woff2");
 }
 
-body {
-    background-image: url(data/diia_gradient_01.png);
+@font-face {
+    font-family: "e-Ukraine Bold";
+    src: url(data/fonts/bold.woff2) format("woff2");
 }
+
+body {
+    background-image: url(data/Diia_gradient_RGB.svg);
+    background-size: 150em;
+}
+
 h1 {
     font-family: "e-Ukraine Head";
 }
 
 p {
     font-family: "e-Ukraine";
+}
+
+.bold {
+    font-family: "e-Ukraine Bold";
 }
