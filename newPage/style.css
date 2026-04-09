@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "e-Ukraine Head";
+    src: url(\data\e-UkraineHead-LOGO.woff2) format("woff2");
+}
+
+h1, h2, h3 {
+    font-family: "e-Ukraine Head";
+}
