@@ -1,8 +1,18 @@
 @font-face {
     font-family: "e-Ukraine Head";
-    src: url(\data\headFont.woff2) format("woff2");
+    src: url(data/fonts/headFont.woff2) format("woff2");
+    /* font-family: "e-Ukraine";
+    src: url(data\fonts\regularFont\e-Ukraine-Regular.woff2) format("woff2");
+    font-weight: regular; */
 }
-
+body {
+    background-image: url(data/diia_gradient_01.png);
+}
 h1 {
     font-family: "e-Ukraine Head";
 }
+
+/* p {
+    font-family: "e-Ukraine";
+    font-weight: regular;
+} */
